@@ -58,7 +58,7 @@ This repository contains the official implementation of **"Smart Dermatology: CN
 
 
 **Data Preprocessing** [citation:10]:
-- Black border removal using OpenCV
+
 - Resizing to 160×160 pixels
 - Normalization (0-255 → 0-1)
 - Data augmentation: rotations (40°), flips, shifts, zoom, brightness adjustment
