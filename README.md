@@ -29,7 +29,7 @@ The system classifies **8 types of skin diseases** and is designed for **mobile 
 
 **Dataset is not included in this repository due to large size.**
 
-👉 Download Dataset: **[Google Drive Link Here]**
+👉 Download Dataset: https://drive.google.com/drive/folders/1xHJxdy4-_EwwGxK8Y0Kj0FrrEDZV6K_I
 
 | Attribute | Details |
 |----------|--------|
@@ -64,8 +64,8 @@ The system classifies **8 types of skin diseases** and is designed for **mobile 
 
 **App files are not included due to large size.**
 
-👉 Download Android App: **[Google Drive Link Here]**
-
+👉 Download Android App: 
+https://drive.google.com/drive/folders/1xHJxdy4-_EwwGxK8Y0Kj0FrrEDZV6K_I
 ### Features:
 - Image capture / gallery selection  
 - Offline prediction  
@@ -75,15 +75,6 @@ The system classifies **8 types of skin diseases** and is designed for **mobile 
 ### Tech Stack:
 - Java (Android Studio)  
 - TensorFlow Lite  
-
----
-
-## 🧪 Trained Model
-
-**Trained model file (.tflite / .h5) is not included due to size limitations.**
-
-👉 Download Model: **[Google Drive Link Here]**
-
 ---
 
 ## 🛠 Installation
