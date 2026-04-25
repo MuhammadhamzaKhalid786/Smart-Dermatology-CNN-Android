@@ -5,11 +5,7 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-FF6F00?logo=tensorflow)](https://tensorflow.org)
 [![DOI](https://img.shields.io/badge/DOI-10.XXXX/XXXXXX-blue)](https://doi.org/XXXX)
 
-**Arooj Fatima¹, Rozi Bibi²**  
-¹Department of Computer Science, Government Postgraduate College for Women Haripur, KPK, Pakistan  
-²Lecturer, Department of Computer Science, Government Postgraduate College for Women Haripur, KPK, Pakistan  
 
-📧 hk.farooj738@gmail.com | rozi.mushtaq999@gmail.com
 
 ---
 
